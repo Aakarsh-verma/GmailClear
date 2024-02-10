@@ -50,9 +50,7 @@ An Easy Way to Clear unwanted emails in your Gmail Inbox
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Delete Unwanted Emails
 
 ## :rocket: Technologies ##
 
@@ -76,6 +74,7 @@ $ cd gmailclear
 # Install dependencies
 $ python
 $ ezgmail
+```
 
 ## :memo: License ##
 
