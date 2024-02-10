@@ -81,7 +81,7 @@ $ ezgmail
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/Aakarsh-verma" target="_blank">{{Aakarsh Verma}}</a>
+Made with :heart: by <a href="https://github.com/Aakarsh-verma" target="_blank">Aakarsh Verma</a>
 
 &#xa0;
 
